@@ -6,7 +6,7 @@ Additions:
 - Grid view
 - Scale to visible area
 
-![screenshot](https://github.com/fictorial/CalendarView/blob/master/Screenshot.png "Screenshot")
+![screenshot](https://github.com/kerm1t/CalendarView/blob/master/Screenshot.png "Screenshot")
 
 ## Author
 
